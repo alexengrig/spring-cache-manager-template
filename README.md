@@ -4,7 +4,14 @@
 [![Javadocs](https://www.javadoc.io/badge/ru.spb.devclub/spring-cache-manager-template.svg)](https://www.javadoc.io/doc/ru.spb.devclub/spring-cache-manager-template)
 [![GitHub](https://img.shields.io/github/license/devclubspb/spring-cache-manager-template?style=flat&&color=informational)](LICENSE)
 
-Spring CacheManagerTemplate.
+Working with
+[Spring cache](https://docs.spring.io/spring-framework/docs/current/reference/html/integration.html#cache)
+programmatically.
+
+[CacheManager](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/cache/CacheManager.html)
+as `template` -
+[CacheManagerTemplate](src/main/java/ru/spb/devclub/spring/cache/template/CacheManagerTemplate.java)
+.
 
 ## Install
 
