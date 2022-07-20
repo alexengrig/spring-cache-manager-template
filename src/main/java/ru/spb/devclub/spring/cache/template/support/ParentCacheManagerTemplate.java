@@ -27,7 +27,7 @@ public class ParentCacheManagerTemplate<K, V, T extends CacheManager> implements
      * @since 1.0
      */
     public ParentCacheManagerTemplate(T manager) {
-        this.manager = manager;
+        this.manager = Objects.requireNonNull(manager, "The manager must not be null");
     }
 
     /**
