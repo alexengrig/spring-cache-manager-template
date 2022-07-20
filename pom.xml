@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.spb.devclub</groupId>
-    <artifactId>PROJECT_NAME</artifactId>
-    <version>PROJECT_VERSION</version>
+    <artifactId>spring-cache-manager-template</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
-    <name>PROJECT_NAME</name>
-    <description>PROJECT_DESCRIPTION</description>
-    <url>https://github.com/devclubspb/PROJECT_NAME</url>
+    <name>spring-cache-manager-template</name>
+    <description>Spring CacheManagerTemplate</description>
+    <url>https://github.com/devclubspb/spring-cache-manager-template</url>
 
     <licenses>
         <license>
@@ -140,14 +140,14 @@
     </distributionManagement>
 
     <issueManagement>
-        <url>https://github.com/devclubspb/PROJECT_NAME/issues</url>
+        <url>https://github.com/devclubspb/spring-cache-manager-template/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
     <scm>
-        <connection>scm:git:https://github.com/devclubspb/PROJECT_NAME.git</connection>
-        <developerConnection>scm:git:https://github.com/devclubspb/PROJECT_NAME.git</developerConnection>
-        <url>https://github.com/devclubspb/PROJECT_NAME.git</url>
+        <connection>scm:git:https://github.com/devclubspb/spring-cache-manager-template.git</connection>
+        <developerConnection>scm:git:https://github.com/devclubspb/spring-cache-manager-template.git</developerConnection>
+        <url>https://github.com/devclubspb/spring-cache-manager-template.git</url>
         <tag>HEAD</tag>
     </scm>
 
